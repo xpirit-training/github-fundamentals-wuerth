@@ -56,3 +56,6 @@ For this workshop you need the following:
 - [ ] 🔨 Hands-on: [Applying suggestions](HOL/06_Applying-suggestions.md)
 - [ ] 🔨 Hands-on: [Code reviews](HOL/07_Code-reviews.md)
 
+## Next chapter
+This is the next chapter.
+
